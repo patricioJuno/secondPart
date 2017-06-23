@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1498241119 source:d:\ucsp\3er semestre\ciencia de la computación i\avance real\airplane\main.cpp
+	<iostream>
+	<vector>
+	"Airplane.h"
+	"Tower.h"
+
+1498240869 d:\ucsp\3er semestre\ciencia de la computación i\avance real\airplane\include\airplane.h
+
+1498241040 d:\ucsp\3er semestre\ciencia de la computación i\avance real\airplane\include\tower.h
+	<vector>
+	"Airplane.h"
+
+1498241142 source:d:\ucsp\3er semestre\ciencia de la computación i\avance real\airplane\src\airplane.cpp
+	"Airplane.h"
+	<iostream>
+
+1498240802 source:d:\ucsp\3er semestre\ciencia de la computación i\avance real\airplane\src\tower.cpp
+	"Tower.h"
+	"Airplane.h"
+	<vector>
+

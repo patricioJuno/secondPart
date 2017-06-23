@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1498240379 source:d:\ucsp\3er semestre\ciencia de la computación i\avance real\person\main.cpp
+	<iostream>
+	"Person.h"
+	"Birthday.h"
+
+1498240523 source:d:\ucsp\3er semestre\ciencia de la computación i\avance real\person\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1498240280 d:\ucsp\3er semestre\ciencia de la computación i\avance real\person\include\birthday.h
+
+1498240017 source:d:\ucsp\3er semestre\ciencia de la computación i\avance real\person\src\person.cpp
+	"Person.h"
+	"Birthday.h"
+
+1498239980 d:\ucsp\3er semestre\ciencia de la computación i\avance real\person\include\person.h
+	<iostream>
+	"Birthday.h"
+
